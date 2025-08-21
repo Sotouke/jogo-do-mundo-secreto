@@ -1,6 +1,6 @@
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
-let nome = prompt('Qual seu nome?');
+let nome = prompt('Qual seu nome? Jogador(a)');
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
