@@ -14,7 +14,7 @@ function exibirTextoNaTela(tag, texto) {
         window.speechSynthesis.speak(utterance); 
     } else {
         console.log("Web Speech API não suportada neste navegador.");
-    }
+    } //https://gist.github.com/Sotouke/359772260ec4ab1c266a80ff94a70065
 
 }
 
